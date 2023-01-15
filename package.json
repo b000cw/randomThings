@@ -1,0 +1,7 @@
+{
+  "name": "random-n-num",
+  "version": "1.0.6",
+  "main": "random.js",
+  "license": "MIT",
+  "type": "module"
+}
