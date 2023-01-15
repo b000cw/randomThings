@@ -1,7 +1,11 @@
 {
-  "name": "random-n-num",
-  "version": "1.0.6",
+  "name": "random-num-quote",
+  "version": "1.0.7",
   "main": "random.js",
   "license": "MIT",
-  "type": "module"
+  "type": "module",
+  "repository":{
+    "type": "git",
+    "url": "git+https://github.com/b000cw/randomThings"
+  }
 }

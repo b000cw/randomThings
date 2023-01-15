@@ -4,7 +4,7 @@ Generate a random quote or a number.
 
 For generating a random number you can either pass minium number and maximum number (or) just call the function without any arguments in it.  
 ```
-  import {random} from "random-n-num"
+  import {random} from "random-num-quote"
 
   // pass using min and max values
 
@@ -18,7 +18,7 @@ For generating a random number you can either pass minium number and maximum num
 For generating a quote
 
 ```
-  import {random} from "random-n-num"
+  import {random} from "random-num-quote"
 
 
   random.quote() // return a random quote.
